@@ -8,4 +8,4 @@ Currently, the website is still work in progress.
 
 ## Why the name?
 
-The reason behind the domain/name is that PorkBun ran a promotion for June pride month for free `.gay` domains. And [@Zoobdude](https://github.com/Zoobdude) wanted something short and funny, so he got this.
+The reason behind the domain/name is that [Porkbun ran a promotion](https://porkbun.com/event/happy-pride-month) for June pride month for free `.gay` domains. And [@Zoobdude](https://github.com/Zoobdude) wanted something short and funny, so he got this.
