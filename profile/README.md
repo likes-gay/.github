@@ -1,4 +1,4 @@
-# Likes Gay
+# likes.gay
 
 https://likes.gay
 
